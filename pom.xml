@@ -5,8 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.zero</groupId>
-    <artifactId>design-pattern</artifactId>
+    <artifactId>design-patterns</artifactId>
     <version>1.0.0</version>
+
+    <name>design-patterns</name>
+    <description>设计模式的 Java 实现集合（创建型 / 结构型 / 行为型）</description>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
